@@ -57,7 +57,5 @@ ESP8266 WiFi连网测试
 - 个人博客：<https://xxpcb.gitee.io> ,   <https://xxpcb.github.io>
 - 知乎：<https://www.zhihu.com/people/xxpcb>
 - CSDN：<https://blog.csdn.net/hbsyaaa>
-- 微信公众文章：![](wxgzh.png)
-
 相互学习，共同进步~
 
